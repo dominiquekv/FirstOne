@@ -1,2 +1,2 @@
 # FirstOne
- Primeiro repositório versionado
+ Meu primeiro repositório versionado, do curso de Git e GitHub.
